@@ -1,5 +1,5 @@
 # WiFi-Lamp-ESP8266-ATmega8
-C code Atmel Studio project
+Source code is in C in Atmel Studio.
 I hope this project is easy to understand and modify it.
 Or just upload ATmega8_ESP8266_LAMP.hex and enjoy.
 I downloaded android app from here: https://play.google.com/store/apps/details?id=udpcontroller.nomal
