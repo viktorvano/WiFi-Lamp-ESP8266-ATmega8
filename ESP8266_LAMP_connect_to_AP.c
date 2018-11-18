@@ -215,7 +215,7 @@ void WiFi_Init(void)
 	set_multiple_connection[]={"AT+CIPMUX=1\r\n"},
 	//Access_point_secured[]={"AT+CWSAP=\"CyberPunk LAMP\",\"beworthy\",1,3\r\n"},
 	server[]={"AT+CIPSERVER=1,80\r\n"},
-	connect_to_wifi[]="AT+CWJAP=\"VikTHOR\",\"beworthy\"\r\n";
+	connect_to_wifi[]="AT+CWJAP=\"AP_name\",\"AP_pass\"\r\n";
 	int delay=600;
 	
 	/*_delay_ms(200);
